@@ -1,100 +1,39 @@
-# 👋 Hi, I'm a Junior Data Scientist
 
-I am a **Junior Data Scientist** with hands-on experience in **data analysis, machine learning, and financial analytics**, focused on solving real-world problems using data-driven approaches.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hakima Muktar
+======================================================================================================================================
 
-I have worked on projects spanning **fintech, banking, financial markets, and social impact**, with strong interest in **data analytics, predictive modeling, and applied machine learning**.
+Data scientist
+--------------
 
----
+I am a Junior Data Scientist with hands-on experience in data analysis, machine learning, and financial analytics, focused on solving real-world problems using data-driven approaches.
 
-## 📊 Featured Data Science Projects
+I have worked on projects spanning fintech, banking, financial markets, and social impact, with strong interest in data analytics, predictive modeling, and applied machine learning.
 
-### 💳 Customer Experience Analytics for Fintech Apps
-**Customer behavior & sentiment analysis**
-- Analyzed customer feedback and app usage data
-- Performed data cleaning, EDA, and feature engineering
-- Identified key drivers of customer satisfaction and churn
-- Delivered actionable insights using visual analytics
+* 🌍  I'm based in Ethiopia
+* ✉️  You can contact me at [hakimamuktar73@gmail.com](mailto:hakimamuktar73@gmail.com)
+* 🧠  I'm currently learning AI Engineering
+* 👥  I'm looking to collaborate on internships, or collaborative projects where I can grow my skills and contribute to impactful, data-driven solution
 
-**Skills:**  
-`EDA` · `Data Cleaning` · `Customer Analytics` · `Data Visualization`
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-### 📈 Predicting Price Moves with News Sentiment
-**Financial market sentiment analysis**
-- Collected and processed financial news data
-- Performed sentiment analysis on news headlines
-- Analyzed the relationship between sentiment and stock returns
-- Visualized trends and correlations over time
+<p align="left"> <a href="https://www.github.com/Hakima-Muktar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/hakima-muktar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/Hakima-Muktar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Hakima-Muktar?logo=github&style=for-the-badge&color=14b8a6&labelColor=7c2d12" /></a>
+### Badges
 
-**Skills:**  
-`NLP` · `Sentiment Analysis` · `Time Series Analysis` · `Financial Data`
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/Hakima-Muktar"><img src="https://github-readme-stats.vercel.app/api?username=Hakima-Muktar&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=7c2d12&hide_border=true&show_icons=true" alt="Hakima-Muktar's GitHub stats" /></a>
 
-### 🌍 Forecasting Financial Inclusion in Ethiopia
-**Socio-economic & time-series forecasting**
-- Analyzed financial inclusion indicators in Ethiopia
-- Built forecasting models to predict future trends
-- Evaluated risks, opportunities, and forecast reliability
-- Provided data-backed insights for policy and decision-making
+<a href="http://www.github.com/Hakima-Muktar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hakima-Muktar&stroke=14b8a6&background=7c2d12&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-**Skills:**  
-`Time Series Forecasting` · `Statistical Analysis` · `Trend Analysis`
+<a href="https://github.com/Hakima-Muktar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakima-Muktar&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=7c2d12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
----
+<b>Top Repositories</b>
 
-### 🏦 Credit Risk Probability Modeling
-**Banking risk analytics**
-- Built credit risk prediction models
-- Performed feature engineering on customer financial data
-- Evaluated model performance using classification metrics
-- Interpreted results for real-world banking use cases
+<div width="100%" align="center"><a href="https://github.com/Hakima-Muktar/customer-experience-analytics-fintech-apps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hakima-Muktar&repo=customer-experience-analytics-fintech-apps&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=7c2d12&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-**Skills:**  
-`Classification Models` · `Risk Analysis` · `Model Evaluation`
-
----
-
-## 🛠 Skills & Tools
-
-### 📌 Data Science & Analytics
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Feature Engineering
-- Statistical Analysis
-- Data Visualization
-- Business Insights & Reporting
-
-### 🤖 Machine Learning
-- Regression & Classification
-- Time Series Forecasting
-- Model Evaluation & Validation
-- Credit Risk Modeling
-- Sentiment Analysis (NLP basics)
-
-### 🧰 Tools & Technologies
-- **Python**
-- **SQL**
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Jupyter Notebook
-- Git & GitHub
-
-### 📊 Domains
-- Fintech & Banking
-- Financial Markets
-- Credit Risk Analysis
-- Customer Experience Analytics
-- Socio-economic Data Analysis
-
----
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/hakima-muktar/)
-
-I’m actively seeking **Junior Data Scientist / Data Analyst opportunities**, internships, or collaborative projects where I can grow my skills and contribute to impactful, data-driven solutions.
-
-⭐ Feel free to explore my repositories and reach out!
