@@ -16,7 +16,7 @@ I have worked on projects spanning **fintech, banking, financial markets, and so
 - Delivered actionable insights using visual analytics
 
 **Skills:**  
-+ - `EDA` · `Data Cleaning` · `Customer Analytics` · `Data Visualization`
+`EDA` · `Data Cleaning` · `Customer Analytics` · `Data Visualization`
 
 ---
 
@@ -28,7 +28,7 @@ I have worked on projects spanning **fintech, banking, financial markets, and so
 - Visualized trends and correlations over time
 
 **Skills:**  
-+ - `NLP` · `Sentiment Analysis` · `Time Series Analysis` · `Financial Data`
+`NLP` · `Sentiment Analysis` · `Time Series Analysis` · `Financial Data`
 
 ---
 
@@ -40,7 +40,7 @@ I have worked on projects spanning **fintech, banking, financial markets, and so
 - Provided data-backed insights for policy and decision-making
 
 **Skills:**  
-+ - `Time Series Forecasting` · `Statistical Analysis` · `Trend Analysis`
+`Time Series Forecasting` · `Statistical Analysis` · `Trend Analysis`
 
 ---
 
@@ -52,51 +52,48 @@ I have worked on projects spanning **fintech, banking, financial markets, and so
 - Interpreted results for real-world banking use cases
 
 **Skills:**  
-+ - `Classification Models` · `Risk Analysis` · `Model Evaluation`
+`Classification Models` · `Risk Analysis` · `Model Evaluation`
 
 ---
 
 ## 🛠 Skills & Tools
 
-+ 📊 Data Science & Analytics
-+ - Exploratory Data Analysis (EDA)
-+ - Data Cleaning & Preprocessing
-+ - Feature Engineering
-+ - Statistical Analysis
-+ - Data Visualization
-+ - Business Insights & Reporting
+### 📌 Data Science & Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Statistical Analysis
+- Data Visualization
+- Business Insights & Reporting
 
+### 🤖 Machine Learning
+- Regression & Classification
+- Time Series Forecasting
+- Model Evaluation & Validation
+- Credit Risk Modeling
+- Sentiment Analysis (NLP basics)
 
-+ 🤖 Machine Learning
-+ - Regression & Classification Models
-+ - Time Series Forecasting
-+ - Credit Risk Probability Modeling
-+ - Sentiment Analysis (NLP)
-+ - Model Evaluation & Validation
+### 🧰 Tools & Technologies
+- **Python**
+- **SQL**
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- Jupyter Notebook
+- Git & GitHub
 
-+ 🧰 Programming & Tools
-+ - Python
-+ - SQL
-+ - Pandas, NumPy
-+ - Scikit-learn
-+ - Matplotlib, Seaborn
-+ - Jupyter Notebook
-+ - Git & GitHub
+### 📊 Domains
+- Fintech & Banking
+- Financial Markets
+- Credit Risk Analysis
+- Customer Experience Analytics
+- Socio-economic Data Analysis
 
+---
 
-+ 🏦 Domain Knowledge
-+ - Fintech & Banking Analytics
-+ - Financial Market Analysis
-+ - Credit Risk & Scoring
-+ - Customer Experience Analytics
-+ - Socio-economic Data Analysis
+## 📫 Let's Connect
 
-
-
-
- + - Let's Connect
-
-- **LinkedIn:** * https://www.linkedin.com/in/hakima-muktar * 
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/hakima-muktar/)
 
 I’m actively seeking **Junior Data Scientist / Data Analyst opportunities**, internships, or collaborative projects where I can grow my skills and contribute to impactful, data-driven solutions.
 
