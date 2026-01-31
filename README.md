@@ -1,4 +1,3 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hakima Muktar
 ======================================================================================================================================
 
@@ -19,21 +18,4 @@ I have worked on projects spanning fintech, banking, financial markets, and soci
 </p>
 
 ### Socials
-
 <p align="left"> <a href="https://www.github.com/Hakima-Muktar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/hakima-muktar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Hakima-Muktar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Hakima-Muktar?logo=github&style=for-the-badge&color=14b8a6&labelColor=7c2d12" /></a>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Hakima-Muktar"><img src="https://github-readme-stats.vercel.app/api?username=Hakima-Muktar&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=7c2d12&hide_border=true&show_icons=true" alt="Hakima-Muktar's GitHub stats" /></a>
-
-<a href="http://www.github.com/Hakima-Muktar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hakima-Muktar&stroke=14b8a6&background=7c2d12&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="https://github.com/Hakima-Muktar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakima-Muktar&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=7c2d12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Hakima-Muktar/customer-experience-analytics-fintech-apps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hakima-Muktar&repo=customer-experience-analytics-fintech-apps&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=7c2d12&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
